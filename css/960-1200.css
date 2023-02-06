@@ -1,0 +1,228 @@
+@media screen and (max-width: 1199px) {
+
+    .header {
+        width: calc(100% - 80px);
+    }
+
+
+
+    .main {
+        height: 590px;
+    }
+    .main-title-container {
+        width: calc(100% - 80px);
+        margin-top: 150px;
+    }
+    .main-title {
+        font-size: 70px;
+    }
+    .main-button-container {
+        width: calc(100% - 80px);
+        margin-top: 90px;
+    }
+
+
+
+    .whyus {
+        width: calc(100% - 80px);
+    }
+    .whyus-photo {
+        width: calc(50% - 10px);
+        object-fit: cover;
+    }
+    .advantages {
+        width: calc(50% - 10px);
+    }
+
+
+
+    .whoarewe-container1 {
+        width: calc(100% - 80px);
+    }
+    .whoarewe-info-container {
+        width: 73%;
+    }
+    .whoarewe-container2 {
+        width: 100%;
+    }
+    .whoarewe-photo-left-right-padding {
+        width: 40px;
+        height: 733px;
+    }
+    .whoarewe-photo-container {
+        width: calc(100% - 80px);
+    }
+    .whoarewe-photo-rectangle {
+        width: 27%;
+        height: 733px;
+    }
+    .whoarewe-photo-sub-container {
+        width: 73%;
+        align-items: flex-end;
+    }
+    .whoarewe-photo {
+        width: 100%;
+        height: 733px;
+        object-fit: cover;
+    }
+    .whoarewe-photo-bottom-padding {
+        width: 100%;
+    }
+
+
+
+    .textile {
+        width: calc(100% - 80px);
+    }
+    .textile-title {
+        width: 73%;
+    }
+    .textile-photo {
+        width: calc(50% - 10px);
+        object-fit: cover;
+    }
+
+
+
+    .catalog-name-container {
+        width: calc(100% - 80px);
+    }
+    .catalog-name-border1 {
+        padding-bottom: 20px;
+    }
+    .catalog-name-border2 {
+        padding-bottom: 20px;
+    }
+    .card-product-left {
+        padding-right: 70px;
+        padding-left: 40px;
+    }
+    .card-product-right {
+        padding-left: 70px;
+        padding-right: 40px;
+    }
+    .product-photo {
+        width: 100%;
+        height: auto;
+        object-fit: cover;
+        background-position: center;
+    }
+
+
+
+    .sale {
+        position: relative;
+        width: calc(100% - 80px);
+    }
+    .sale-title {
+        top: 170px;
+    }
+    .sub2 {
+        width: 100%;
+    }
+    .sale-information-container {
+        width: 73%;
+    }
+    .sale-photo {
+        width: 100%;
+        height: auto;
+    }
+    .sale-divider {
+        width: 100%;
+    }
+   
+
+
+    .production-container1 {
+        width: calc(100% - 80px);
+    }
+    .production-info-container {
+        width: 73%;
+    }
+    .production-photo-left-right-padding {
+        width: 40px;
+        height: 480px;
+    }
+    .production-photo-container {
+        width: calc(100% - 80px);
+    }
+    .production-photo-sub-container {
+        width: 48%;
+    }
+    .production-photo {
+        width: 100%;
+        object-fit: cover;
+    }
+    .production-photo-bottom-padding {
+        width: 100%;
+    }
+    .production-information {
+        width: 52%;
+        padding-left: 20px;
+    }
+
+
+
+
+    .social-media {
+        width: calc(100% - 80px);
+    }
+    .social-media-photo {
+        width: 23.5%;
+        height: auto;
+        object-fit: cover;
+    }
+
+
+
+    .footer {
+        width: calc(100% - 80px);
+    }
+
+
+
+    h1 {
+        display: none;
+    }
+    .block-name {
+        display: flex;
+        flex-direction: row;
+        align-items: center;
+    }
+    .block-name-point {
+        width: 8px;
+        height: 8px;
+        margin-right: 20px;
+        background-color: #333333;
+    }
+    .block-name-text {
+        font-size: 16px;
+        font-weight: 600;
+        line-height: 120%;
+        text-transform: uppercase;
+        color: #333333;
+    }
+    .block-title {
+        font-weight: 500;
+        font-size: 48px;
+        line-height: 100%;
+        text-transform: uppercase;
+    }
+    .block-text {
+        margin-top: 60px;
+        margin-bottom: 60px;
+        font-size: 18px;
+        line-height: 120%;
+    }
+    .block-text p {
+        margin-top: 13px;
+        margin-bottom: 13px;
+    }
+    .color-white {
+        color: #ffffff;
+    }
+    .bgcolor-white {
+        background-color: #ffffff;
+    }
+
+}
